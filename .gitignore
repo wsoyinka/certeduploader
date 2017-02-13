@@ -1,0 +1,5 @@
+*.pyc
+MANIFEST*
+python27
+test
+
